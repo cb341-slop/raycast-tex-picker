@@ -1,5 +1,7 @@
 # TeX Symbols
 
+<img width="1548" height="948" alt="CleanShot 2026-10-22 at 13 12 33@2x" src="https://github.com/user-attachments/assets/1ed73a91-fcfd-4dc3-b394-027a38bb6b50" />
+
 A Raycast extension for searching and copying Greek letters and mathematical symbols, including the natural, integer, rational, real, and complex number sets. Search by a symbol's name, TeX command, or related words. For example, search `fog` or `f(g(x))` to find the function composition symbol `∘` (`\circ`).
 
 ## Use
