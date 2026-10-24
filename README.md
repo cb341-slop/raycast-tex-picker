@@ -2,7 +2,7 @@
 
 <img width="1548" height="948" alt="CleanShot 2026-10-22 at 13 12 33@2x" src="https://github.com/user-attachments/assets/1ed73a91-fcfd-4dc3-b394-027a38bb6b50" />
 
-A Raycast extension for searching and copying Greek letters and mathematical symbols, including the natural, integer, rational, real, and complex number sets. Search by a symbol's name, TeX command, or related words. For example, search `fog` or `f(g(x))` to find the function composition symbol `∘` (`\circ`).
+A Raycast extension for searching and inserting Greek letters and mathematical symbols, including the natural, integer, rational, real, and complex number sets. Search by a symbol's name, TeX command, or related words. For example, search `fog` or `f(g(x))` to find the function composition symbol `∘` (`\circ`).
 
 ## Use
 
@@ -10,7 +10,7 @@ A Raycast extension for searching and copying Greek letters and mathematical sym
 - Browse the symbol grid or search by a Unicode character, name, command, or keyword.
 - Each tile shows the Unicode character large, with its name and TeX command underneath.
 - Glyph colors identify their category.
-- Press Enter to copy the Unicode character. Use the action menu to copy the TeX command instead.
+- Press Enter to insert the Unicode character into the previously focused app. Use the action menu to copy the TeX command instead.
 - Use **Add to Favorites** to keep a symbol in the Favorites section. Favorites are stored by Raycast on this Mac.
 - Use the search bar dropdown to filter by category or show only favorites.
 

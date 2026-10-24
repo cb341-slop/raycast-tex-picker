@@ -234,10 +234,9 @@ export default function Command() {
               ]}
               actions={
                 <ActionPanel>
-                  <Action.CopyToClipboard
-                    title={`Copy Unicode ${entry.symbol}`}
+                  <Action.Paste
+                    title={`Insert ${entry.symbol}`}
                     content={entry.symbol}
-                    shortcut={{ modifiers: ["cmd"], key: "c" }}
                   />
                   <Action.CopyToClipboard
                     title={`Copy TeX ${entry.tex}`}

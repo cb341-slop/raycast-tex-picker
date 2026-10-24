@@ -2,19 +2,29 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "tex-symbol-picker",
   "title": "TeX Symbols",
-  "description": "Search and copy Greek and mathematical symbols as Unicode or TeX.",
+  "description": "Search and insert Greek and mathematical symbols as Unicode, or copy their TeX commands.",
   "icon": "icon.png",
   "author": "cb341",
   "license": "MIT",
-  "categories": ["Developer Tools", "Productivity"],
+  "categories": [
+    "Developer Tools",
+    "Productivity"
+  ],
   "commands": [
     {
       "name": "symbols",
       "title": "Search TeX Symbols",
-      "subtitle": "Find and copy Unicode or TeX symbols",
+      "subtitle": "Find and insert Unicode symbols",
       "description": "Search Greek letters and mathematical symbols by name, TeX command, or keyword.",
       "mode": "view",
-      "keywords": ["latex", "math", "greek", "unicode", "symbol", "equation"]
+      "keywords": [
+        "latex",
+        "math",
+        "greek",
+        "unicode",
+        "symbol",
+        "equation"
+      ]
     }
   ],
   "dependencies": {
